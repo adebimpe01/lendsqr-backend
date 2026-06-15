@@ -1,10 +1,15 @@
-{
-  "users": [
-    {
-      "id": "1",
-      "username": "Abdulkareem Rukayat",
-      "email": "abdulkareemrukayat18@gmail.com",
-      "balance": 200000
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "username": "Abdulkareem Rukayat",
+    "email": "abdulkareemrukayat18@gmail.com",
+    "phone": "08012345678",
+    "status": "active",
+    "orgName": "Lendsqr",
+    "dateJoined": "2024-06-01T10:00:00Z",
+    "balance": 200000,
+    "tier": 2,
+    "accountNumber": "1234567890",
+    "bank": "GTBank"
+  }
+]
