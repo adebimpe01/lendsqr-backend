@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Abdulkareem Rukayat",
+      "email": "abdulkareemrukayat18@gmail.com",
+      "balance": 200000
+    }
+  ]
+}
